@@ -13,3 +13,7 @@ cgx-common/src/
 cgx-web/src/main/java/
 cgx-web/src/main/resouces/
 cgx-web/src/test/
+!/cgx-api/src/
+!/cgx-common/src/
+!/cgx-web/src/
+!/pom.xml
