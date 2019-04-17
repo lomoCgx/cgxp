@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="cgx-api" />
+        <module name="cgx-common" />
+        <module name="cgx-web" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="cgx-api" target="1.5" />
+      <module name="cgx-common" target="1.5" />
+      <module name="cgx-web" target="1.7" />
+      <module name="cgxp" target="1.5" />
+    </bytecodeTargetLevel>
+  </component>
+</project>

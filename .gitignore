@@ -1,0 +1,15 @@
+# Created by .ignore support plugin (hsz.mobi)
+/.idea/
+/cgx-api/cgx-api.iml
+/cgx-common/cgx-common.iml
+/cgx-common/cgxcommon.iml
+/cgx-web/cgx-web.iml
+/cgx-web/cgxweb.iml
+/cgxp.iml
+.gitignore
+.idea/workspace.xml
+cgx-api/src/
+cgx-common/src/
+cgx-web/src/main/java/
+cgx-web/src/main/resouces/
+cgx-web/src/test/

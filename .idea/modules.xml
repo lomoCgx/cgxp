@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/cgx-api/cgx-api.iml" filepath="$PROJECT_DIR$/cgx-api/cgx-api.iml" />
+      <module fileurl="file://$PROJECT_DIR$/cgx-common/cgx-common.iml" filepath="$PROJECT_DIR$/cgx-common/cgx-common.iml" />
+      <module fileurl="file://$PROJECT_DIR$/cgx-web/cgx-web.iml" filepath="$PROJECT_DIR$/cgx-web/cgx-web.iml" />
+      <module fileurl="file://$PROJECT_DIR$/cgxp.iml" filepath="$PROJECT_DIR$/cgxp.iml" />
+    </modules>
+  </component>
+</project>
